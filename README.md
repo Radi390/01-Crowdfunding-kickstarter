@@ -9,6 +9,7 @@ In the Kickstarter dataset, there are 4113 campaigns in different fields such as
 ## Results
 - In the aspect of starting dates, May and June have the most success rate of 69% and 67%, followed by July and February. And the worst success rate belongs to December at 50%. So it seems May is the wisest starting date for the Theater campaign.
 - The average run time for successful campaigns is about one month, and those with longer run times are most likely to fail.
+
 ![This is an image](/Theater_Outcomes_vs_Launch.png)
 
 - There were various goals set for Theater campaigns, from less than a thousand dollars to more than fifty thousand dollars. As we can see in the following graph, in amounts lower than twenty thousand dollars success rate is more than 50%. And also, for campaigns with goals from thirty-five to fifty thousand dollars success rate is 66%. So it could be wise to choose an objective from this period.
